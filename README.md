@@ -1,4 +1,4 @@
-# S# 📊 Visualizador Interactivo de Datos con Streamlit
+# Ejemplo 1# 📊 Visualizador Interactivo de Datos con Streamlit
 
 ¡Bienvenido! Este es un proyecto desarrollado para explorar y visualizar datos de forma interactiva utilizando **Streamlit**, una increíble librería de Python que facilita la creación de aplicaciones web para ciencia de datos y machine learning.
 
